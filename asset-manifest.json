@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boxes-challenge/static/css/main.aacdb212.css",
+    "main.js": "/boxes-challenge/static/js/main.9c290bc8.js",
+    "static/js/453.53aa98f7.chunk.js": "/boxes-challenge/static/js/453.53aa98f7.chunk.js",
+    "index.html": "/boxes-challenge/index.html",
+    "main.aacdb212.css.map": "/boxes-challenge/static/css/main.aacdb212.css.map",
+    "main.9c290bc8.js.map": "/boxes-challenge/static/js/main.9c290bc8.js.map",
+    "453.53aa98f7.chunk.js.map": "/boxes-challenge/static/js/453.53aa98f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aacdb212.css",
+    "static/js/main.9c290bc8.js"
+  ]
+}
